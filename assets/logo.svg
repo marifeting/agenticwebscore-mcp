@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512" role="img" aria-label="AgenticWebScore">
+  <rect width="120" height="120" rx="26" fill="#05070c"/>
+  <g transform="translate(10 10)">
+    <g color="#4ee0c8">
+      <circle cx="50" cy="50" r="42" fill="none" stroke="currentColor" stroke-width="4.4" stroke-linecap="round" stroke-opacity="0.34" stroke-dasharray="184.7 79.2" transform="rotate(-126 50 50)"/>
+      <circle cx="50" cy="50" r="27" fill="none" stroke="currentColor" stroke-width="4.0" stroke-linecap="round" stroke-opacity="0.62" stroke-dasharray="118.8 50.9" transform="rotate(-126 50 50)"/>
+      <circle cx="50" cy="50" r="13" fill="none" stroke="currentColor" stroke-width="3.6" stroke-linecap="round" stroke-opacity="0.95" stroke-dasharray="57.2 24.5" transform="rotate(-126 50 50)"/>
+    </g>
+    <circle cx="50" cy="50" r="6.5" fill="#6f8dff"/>
+  </g>
+</svg>

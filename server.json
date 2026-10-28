@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.agenticwebscore/scan",
+  "title": "AgenticWebScore",
+  "description": "Scan a public website for AI agent readiness: 60 checks, a score, and the evidence for each.",
+  "version": "0.3.0",
+  "websiteUrl": "https://agenticwebscore.com",
+  "repository": {
+    "url": "https://github.com/marifeting/agenticwebscore-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://agenticwebscore.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://agenticwebscore.com/mcp"
+    }
+  ]
+}
