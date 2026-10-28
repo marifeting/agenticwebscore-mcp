@@ -1,0 +1,26 @@
+{
+  "name": "agenticwebscore",
+  "displayName": "AgenticWebScore",
+  "version": "0.3.0",
+  "description": "Scan a public website for AI agent readiness: 60 checks, a score, and the evidence for each.",
+  "author": {
+    "name": "Marifeting",
+    "email": "hello@agenticwebscore.com"
+  },
+  "homepage": "https://agenticwebscore.com",
+  "repository": "https://github.com/marifeting/agenticwebscore-mcp",
+  "license": "MIT",
+  "keywords": [
+    "agent-readiness",
+    "seo",
+    "llms-txt",
+    "robots-txt",
+    "ai-crawlers",
+    "mcp",
+    "web-audit",
+    "structured-data",
+    "openapi",
+    "webmcp"
+  ],
+  "logo": "assets/logo.svg"
+}

@@ -40,6 +40,14 @@ Any client that reads an `mcpServers` file:
 }
 ```
 
+Gemini CLI, as an extension (`gemini-extension.json`):
+
+```sh
+gemini extensions install https://github.com/marifeting/agenticwebscore-mcp
+```
+
+This repository is also a Cursor plugin (`.cursor-plugin/plugin.json` and `mcp.json`) and carries a LobeHub manifest (`lhm.plugin.json`). All of them point to the same remote endpoint.
+
 ## Tools
 
 | Tool | What it does | Annotations |
